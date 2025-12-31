@@ -185,23 +185,8 @@ MIT License © 2025 DeepWork Society Team
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-deepwork--society-181717.svg?style=flat&logo=github)](https://github.com/deepwork-society/incident-escalation-advisor)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5.svg?style=flat&logo=linkedin)](https://www.linkedin.com/company/deepwork-society)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/chukwuebuka-tobiloba-nwaizugbe/)
 [![X (Twitter)](https://img.shields.io/badge/Follow%20us%20on-X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/deepworksociety)
 [![Discord](https://img.shields.io/badge/Join%20us%20on-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/deepworksociety)
 
 </div>
-## Project Structure
-```
-incident-escalation-advisor/
-├── LICENSE
-├── README.md
-├── pyproject.toml
-├── requirements.txt
-├── .env.example
-├── .gitignore
-├── data/
-├── src/
-├── tests/
-└── architecture/
-```
-
