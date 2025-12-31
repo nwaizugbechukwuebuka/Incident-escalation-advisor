@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+httpx
+python-dotenv
+loguru
+openai
+langdetect
+pytest
+pytest-cov

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "source": "email",
+    "subject": "Service Outage",
+    "description": "Critical outage in payment gateway.",
+    "severity": null,
+    "status": "new"
+  },
+  {
+    "id": 2,
+    "source": "webhook",
+    "subject": "API Latency",
+    "description": "Increased latency detected in API endpoint.",
+    "severity": null,
+    "status": "new"
+  }
+]

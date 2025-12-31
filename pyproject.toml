@@ -1,0 +1,21 @@
+[project]
+name = "incident-escalation-advisor"
+version = "1.0.0"
+description = "LLM-driven incident escalation advisor with modular ingestion, intelligence, and automation."
+authors = ["Incident Escalation Advisor Team <contact@example.com>"]
+license = {file = "LICENSE"}
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.optional-dependencies]
+test = ["pytest", "pytest-cov"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
